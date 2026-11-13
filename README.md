@@ -1,4 +1,4 @@
-# AI Hand — Store Operations over MCP
+# AI Hand for WooCommerce — Store Operations over MCP
 
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-21759b?style=flat-square) ![WooCommerce](https://img.shields.io/badge/WooCommerce-10.9%2B-96588a?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-8.0%2B-777bb4?style=flat-square) ![License](https://img.shields.io/badge/License-GPL--2.0--or--later-blue?style=flat-square)
 
@@ -105,9 +105,9 @@ AI Hand is one of three plugins that share the same core (`hsm-core.php`, option
 
 | Repo | Role |
 |---|---|
-| **aihand** (this repo) | Store operations — the day-to-day work |
-| [aidesign](https://github.com/baibiaowang/aidesign-for-woocommerce) | Storefront look — theme styles, sections, swatches, product video |
-| [aitools](https://github.com/baibiaowang/aitools-for-woocommerce) | Store infrastructure — backup, mail, consent, pixels, cache, feed, hardening |
+| **ai-hand** (this repo) | Store operations — the day-to-day work |
+| [ai-design](https://github.com/baibiaowang/ai-design-for-woocommerce) | Storefront look — theme styles, sections, swatches, product video |
+| [ai-tools](https://github.com/baibiaowang/ai-tools-for-woocommerce) | Store infrastructure — backup, mail, consent, pixels, cache, feed, hardening |
 
 ## Status
 
