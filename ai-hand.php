@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: AI Hand (Store Operations)
+ * Plugin Name: AI Hand for WooCommerce (Store Operations)
  * Description: MCP tools that let an AI agent run a WooCommerce store with guard rails, two-step human review, undo and audit.
  * Version: 1.3.0
  * Requires at least: 6.9
